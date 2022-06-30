@@ -19,7 +19,7 @@
     3、对开源项目以及Github进行相关操作，实践开源。
 
 网址：https://github.com/wenbaoQIAO/gpGPUfacialExpressionReco.git
-安装过程：（详见install文件-位于代码区）
+安装过程：（详见install文件）
 1.	win10安装anaconda3，新建环境。
 2.	在新建环境里，添加镜像源
 3.	Win10anaconda安装TensorFlow-GPU ,比如添加第三方依赖库
