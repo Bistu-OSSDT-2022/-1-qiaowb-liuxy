@@ -22,5 +22,6 @@
 安装过程：（详见install）
 1.	win10安装anaconda3，新建环境。
 2.	在新建环境里，添加镜像源
-3.	Win10anaconda安装TensorFlow-GPU ,比如添加第三方依赖库4.	验证是否安装成功。
-5.运行代码。
+3.	Win10anaconda安装TensorFlow-GPU ,比如添加第三方依赖库
+4.	验证是否安装成功。
+5.  运行代码。
