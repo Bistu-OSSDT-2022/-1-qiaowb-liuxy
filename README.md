@@ -35,13 +35,19 @@ conda config --set show_channel_urls yes
 
 
 CREDITS
+
 刘翔宇——2021011234——网工2102
+
 职晨阳——2021011254——网工2102
+
 闫庆龙——2021011271——大数据2101
+
 龚硕——2021011207——网工2102
+
 朱源——2021011253——网工2102
 
 HISTORY
+
 从https://github.com/wenbaoQIAO/gpGPUfacialExpressionReco.git中初始版本
 发展到https://github.com/Bistu-OSSDT-2022/1-qiaowb-liuxy中进阶版本
 
