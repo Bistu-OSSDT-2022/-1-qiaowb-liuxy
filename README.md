@@ -14,9 +14,12 @@
     基于开源的深度学习人脸表情识别算法和代码，对深度学习的平台搭建、基础理论、GPU加速功能模块进行基础的了解，对开源以及开源相关的Github技术进行初步掌握。
 
 具体实现步骤
-    1、对人脸表情识别算法进行分析、学习，掌握所需要的计算环境；
-    2、整合搭建计算环境所需要的各种软件、以及其相互依赖关系（安装cuda、anaconda、tensorflow-gpu）；
-    3、对开源项目以及Github进行相关操作，实践开源。
+   
+   1、对人脸表情识别算法进行分析、学习，掌握所需要的计算环境；
+   
+   2、整合搭建计算环境所需要的各种软件、以及其相互依赖关系（安装cuda、anaconda、tensorflow-gpu）；
+    
+   3、对开源项目以及Github进行相关操作，实践开源。
 
 网址：https://github.com/wenbaoQIAO/gpGPUfacialExpressionReco.git
 安装过程：（详见install文件）
